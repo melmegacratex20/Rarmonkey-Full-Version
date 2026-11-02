@@ -234,4 +234,4 @@ This repository serves as the official landing page for RarMonkey. The software 
 **Get the most recent version of RarMonkey today!**
 
 ---
-**Last updated:** 2026-11-02 01:12:19 UTC
+**Last updated:** 2026-11-02 08:48:19 UTC
